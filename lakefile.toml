@@ -1,0 +1,5 @@
+name = "dns-tool-proofs"
+defaultTargets = ["DnsToolProofs"]
+
+[[lean_lib]]
+name = "DnsToolProofs"
